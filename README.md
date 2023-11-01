@@ -5,7 +5,7 @@ Na resolução desse desafio da DIO, foram implementadas as seguintes funçoes:
 - Exclusão de uma placa;
 - Listar placas cadastradas;
 
-Em todas as etapas, foram criadas regras de negócio para validar se uma placa é válida, se ela ja esta cadastrada no sistema e verificar se ela existe no cadastro quanso solicitado para remover. Todas os dados de entrada passaram por validações para garantir que o sistema não quebre por entrada de dados inválidos.
+Em todas as etapas, foram criadas regras de negócio para validar se uma placa é válida, se ela ja esta cadastrada no sistema e verificar se ela existe no cadastro quando solicitado para remover. Todas os dados de entrada passaram por validações para garantir que o sistema não quebre por entrada de dados inválidos.
 
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
